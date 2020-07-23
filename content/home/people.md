@@ -19,7 +19,18 @@ subtitle = ""
                  "Administration",
                  "Visitors",
                  "Alumni"]
-
+[[member]]
+	id = "Lutz Greb"
+	position = "Principal investigator"
+	image = "tobias_gerstenberg.jpg"
+	email = "greb@uni-heidelberg.de"
+	twitter = "Grebgroup"
+	github = ""
+	scholar = "https://scholar.google.de/citations?user=1u4dHJAAAAAJ&hl=en&oi=ao"
+	cv = "tobias_gerstenberg.pdf"
+	website = "http://cicl.stanford.edu/member/tobias_gerstenberg"
+	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
+ 
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
