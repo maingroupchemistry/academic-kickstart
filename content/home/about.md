@@ -12,7 +12,7 @@ weight = 1
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   # overlay_color = "#f2a772"  # An HTML color value.
-  overlay_img = "group_pictures/june_2020.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "group_pictures/june_2020-min.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
