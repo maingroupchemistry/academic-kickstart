@@ -13,8 +13,8 @@ weight = 1
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   image = "june_2020-min.jpg"  # Name of image in `static/media/`.
