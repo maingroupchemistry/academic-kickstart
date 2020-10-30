@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Greblab"
-subtitle = ""
+subtitle = "p-block elements. ligands. lewis acids. planarization."
 
 [content]
   # Page type to display. E.g. project.
