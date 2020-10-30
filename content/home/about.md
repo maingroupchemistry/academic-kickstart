@@ -8,7 +8,12 @@ title = "Greblab"
 # Order that this section will appear in.
 weight = 1
 
-{{< figure library="true" src="june_2020.jpg" title="" >}}
+image:
+  placement: 1
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
