@@ -1,6 +1,6 @@
 ---
 # Display name
-title: greblab
+title: Lutz Greb
 
 # Username (this should match the folder name)
 authors:
