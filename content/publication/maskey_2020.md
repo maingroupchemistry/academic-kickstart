@@ -3,12 +3,12 @@ title: 'Completing the Redox‐Series of Silicon Trisdioxolene: ortho‐Quinone 
 # subtitle: ''
 # summary: 'The main objectives of this systematic review and meta-analysis are to evaluate the effect of age on error-related negativity (ERN) and the error positivity (Pe) magnitude in children and adolescents, and to examine potential moderators of these effects, including age, sex, experimental task, task difficulty, and topography and quantification of the ERN and the Pe'
 authors:
-- Rune Boen
-- Daniel S Quintana
-- Cecile Ladouceur
-- Christian K. Tamnes
-tags: ["social-behavior"]
-categories: []
+- Rezisha Maskey
+- Christoph Bendel
+- Jonas Malzacher
+- Lutz Greb
+# tags: ["social-behavior"]
+# categories: []
 date: '2020-08-01'
 lastmod: 2020-08-29T14:26:47+02:00
 featured: false
