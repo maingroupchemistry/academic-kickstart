@@ -10,7 +10,7 @@ weight = 1
 
 [background]
   # Background color.
-  color = "navy"
+  # color = "navy"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
