@@ -42,7 +42,7 @@ subtitle = "p-block elements. ligands. lewis acids. planarization."
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -66,7 +66,9 @@ subtitle = "p-block elements. ligands. lewis acids. planarization."
 
   # Text color (true=light or false=dark).
   text_color_light = true  
-  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "0", "100px", "0"] 
 [advanced]
  # Custom CSS. 
  css_style = ""
