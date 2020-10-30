@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+user_groups = ["Principal Investigators"]
+ 
 # Role/position
 role: Principal Investigator
 
