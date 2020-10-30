@@ -16,7 +16,7 @@ subtitle = "... who are doing the work"
 weight = 3
 
 [[member]]
-	id = "Lutz Greb"
+  id = "Lutz Greb"
 	position = "Principal investigator"
 	image = "tobias_gerstenberg.jpg"
 	email = "greb@uni-heidelberg.de"
