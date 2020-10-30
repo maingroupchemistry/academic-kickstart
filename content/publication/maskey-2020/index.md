@@ -30,10 +30,10 @@ image:
 + projects: ["social-behavior"]
 publishDate: '2020-08-29T12:26:46.952196Z'
 publication_types:
-- 3
+- 4
 # abstract: ''
 publication: 'Chem. Eur. J. 2020, accepted article'
-url_pdf: https://osf.io/57ae2
+url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.202004712
 doi: 10.31234/osf.io/57ae2
 ---
 
