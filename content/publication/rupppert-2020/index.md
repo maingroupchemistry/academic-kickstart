@@ -7,8 +7,8 @@ authors:
 - Lutz Greb
 # tags: ["social-behavior"]
 # categories: []
-date: '2020-08-01'
-lastmod: 2020-08-29T14:26:47+02:00
+date: '2020-07-01'
+lastmod: 2020-07-29T14:26:47+02:00
 featured: false
 draft: false
 
@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 + projects: ["social-behavior"]
-publishDate: '2020-08-29T12:26:46.952196Z'
+publishDate: '2020-07-29T12:26:46.952196Z'
 publication_types:
 - 4
 # abstract: ''
