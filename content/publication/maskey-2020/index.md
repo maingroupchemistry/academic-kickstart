@@ -1,6 +1,6 @@
 ---
 title: 'Completing the Redox‐Series of Silicon Trisdioxolene: ortho‐Quinone and Lewis Superacid Make a Powerful Redox Catalyst.'
-# subtitle: ''
+subtitle: 'Chem. Eur. J., accepted article'
 # summary: 'The main objectives of this systematic review and meta-analysis are to evaluate the effect of age on error-related negativity (ERN) and the error positivity (Pe) magnitude in children and adolescents, and to examine potential moderators of these effects, including age, sex, experimental task, task difficulty, and topography and quantification of the ERN and the Pe'
 authors:
 - Rezisha Maskey
