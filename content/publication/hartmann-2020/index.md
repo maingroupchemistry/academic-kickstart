@@ -30,7 +30,7 @@ publishDate: '2020-07-29T12:26:46.952196Z'
 publication_types:
 - 4
 # abstract: ''
-publication: 'Angew. Chem. Int. Ed. 2020, early view.'
+publication: '*Angew. Chem. Int. Ed.* **2020**, early view.'
 url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/anie.202009942
 doi: 10.31234/osf.io/57ae2
 ---
