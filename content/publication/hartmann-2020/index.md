@@ -3,7 +3,7 @@ title: '[Si(O2C6F4)2]14: Self‐Assembly of a Giant Perfluorinated Macrocyclic H
 subtitle: ''
 summary: 'Angew. Chem. Int. Ed. 2020, early view. **Very Important Paper!**'
 authors:
-- Heiko Rupppert
+- Deborah Hartmann
 - Lutz Greb
 # tags: ["social-behavior"]
 # categories: []
