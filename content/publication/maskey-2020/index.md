@@ -1,7 +1,7 @@
 ---
 title: 'Completing the Redox‐Series of Silicon Trisdioxolene: ortho‐Quinone and Lewis Superacid Make a Powerful Redox Catalyst.'
 subtitle: ''
-summary: 'Chem. Eur. J., accepted article'
+summary: '*Chem. Eur. J.*  **2020**, accepted article'
 authors:
 - Rezisha Maskey
 - Christoph Bendel
@@ -32,7 +32,7 @@ publishDate: '2020-08-29T12:26:46.952196Z'
 publication_types:
 - 4
 # abstract: ''
-publication: 'Chem. Eur. J. 2020, accepted article'
+publication: '*Chem. Eur. J.* **2020**, accepted article'
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.202004712
 doi: 10.31234/osf.io/57ae2
 ---
