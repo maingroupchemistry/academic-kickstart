@@ -1,7 +1,6 @@
 ---
 title: '[Si(O2C6F4)2]14: Self‐Assembly of a Giant Perfluorinated Macrocyclic Host by Low‐Barrier Si‐O Bond Metathesis.'
-<p> <sub>'Self‐Assembly'</sub></p>
-# subtitle: ''
+subtitle: ''
 summary: '*Angew. Chem. Int. Ed.* **2020**, early view. **Very Important Paper!**'
 authors:
 - Deborah Hartmann
