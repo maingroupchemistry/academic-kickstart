@@ -58,7 +58,9 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
    text_color_light = false  
-  
+   
+[Complete List] ({{<ref "publications-all/index.md">}} "Complete List")
+
 [advanced]
  # Custom CSS. 
  css_style = ""
