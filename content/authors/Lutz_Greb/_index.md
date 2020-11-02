@@ -18,7 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-   bio: 
+#   bio: 
 
 # interests:
 # - main group chemistry
