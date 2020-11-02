@@ -18,8 +18,9 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#   bio: 
-
+bio: 
+   -  since  2016  Heidelberg University                         
+                   Inorganic Chemistry Department, Emmy-Noether fellow
 interests:
   - main group chemistry
 # - element-ligand cooperativity
