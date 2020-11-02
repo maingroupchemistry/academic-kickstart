@@ -13,11 +13,21 @@
     name = "People"
     url = "#people"
     weight = 20
+    
+[[main]]
+    name = "Current"
+    url = "#people"
+    weight = 20
+    
+[[main]]
+    name = "Alumni"
+    url = "#people"
+    weight = 20
 
 [[main]]
     name = "Projects"
     url = "#projects"
-    weight = 20
+    weight = 30
 
 [[main]]
     name = "Publications"
