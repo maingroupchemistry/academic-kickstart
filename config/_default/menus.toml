@@ -47,7 +47,7 @@
 [[main]]
     parent = "publications"
     name = "Complete List"
-    url = "publications-all"
+    url = "publications-all/"
     weight = 41
 
 [[main]]
