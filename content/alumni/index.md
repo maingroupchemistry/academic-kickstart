@@ -14,7 +14,7 @@ comments: false  # Show comments?
 #  image: ""
 ---
 |PhD Students|Master Students|Bachelor Students|Exchange Students|
-|:-----------|:--------------|:----------------|:----------------|
+|:-----------|:--------------------|:----------------------|:----------------|
 |Nina Kramer |Fabian Ebner   |Simon Ritter     |Chloe Baker (University of Sheffield|
 ||Christoph Jöst|Jonas Matern||
 ||Marcel Schädler|Heiko Ruppert||
