@@ -33,9 +33,22 @@
     weight = 30
 
 [[main]]
+    identifier = "publications"
     name = "Publications"
-    url = "#featured"
+    url = "#publications"
     weight = 40
+    
+[[main]]
+    parent = "publications"
+    name = "Most recent"
+    url = "#publications"
+    weight = 40
+    
+[[main]]
+    parent = "publications"
+    name = "Complete List"
+    url = "publications-all/index.md"
+    weight = 41
 
 [[main]]
     name = "Contact"
