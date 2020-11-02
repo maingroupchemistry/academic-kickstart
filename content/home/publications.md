@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "[Complete List >>](allpublications/)"
+subtitle = "[Complete List >>](allpublications.md)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
