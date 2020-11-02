@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "[Complete List >>](alumni/)"
+subtitle = "[Complete List >>](allpublications/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
