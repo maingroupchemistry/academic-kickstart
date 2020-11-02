@@ -10,16 +10,19 @@
     weight = 10
    
 [[main]]
+    identifier = "People"
     name = "People"
     url = "#people"
     weight = 20
     
 [[main]]
+    parent = "People"
     name = "Current"
     url = "#people"
     weight = 20
     
 [[main]]
+    parent = "People"
     name = "Alumni"
     url = "#people"
     weight = 20
