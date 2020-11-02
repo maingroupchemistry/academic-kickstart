@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[Complete List] ({{< ref "publications-all/index.md" >}} "Complete List")
+[Complete List] ({{<ref "publications-all/index.md">}} "Complete List")
