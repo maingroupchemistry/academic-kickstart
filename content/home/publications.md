@@ -66,4 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Complete list
+
+Complete list ({{< ref "publications-all/index.md" >}})
