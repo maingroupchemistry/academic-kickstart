@@ -9,7 +9,8 @@ weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
-[List of all publications]({{< ref "publications-all/index.md" >}})
+[List of all publications]
+    ({{< ref "publications-all/index.md" >}})
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
