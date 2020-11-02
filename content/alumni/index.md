@@ -18,4 +18,15 @@ comments: false  # Show comments?
 |Nina Kramer |Fabian Ebner   |Simon Ritter     |Chloe Baker (University of Sheffield|
 ||Christoph Jöst|Jonas Matern||
 ||Marcel Schädler|Heiko Ruppert||
+||Rezisha Maskey|Thaddäus Thorwart||
+||Heiko Ruppert|Moritz Bernhard||
+||Thaddäus Thorwart|Nico Zeitter||
+||Daniel Roth|Nils Oberhof||
+||Lukas Sigmund|Leonard Krupnik||
+||Philipp Erdmann|Juliane Kamlah||
+|||Melanie Lakman||
+|||Christoph Bendel||
+|||Nils Gönnheimer||
+|||Till Kalkuhl||
+|||Senta Kohl||
 
