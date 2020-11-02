@@ -1,21 +1,15 @@
 +++
-# Hero widget.
-widget = "hero"
-active = false
-date = 2017-10-15
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear in.
 
-title = "Greblab"
-# Order that this section will appear in.
-weight = 1
+title = "About"
 
-
-# Call to action button (optional).
-#   Activate the button by specifying a URL and button label below.
-#   Deactivate by commenting out parameters, prefixing lines with `#`.
-# [cta]
-  # url = "./post/getting-started/"
-  # label = '<i class="fa fa-download"></i> Install Now'
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+# author = "admin"
 +++
-
-<br>
-Here at the Greblab at Heidelberg University we study p-block compounds. 
+simple about section, maybe include research
