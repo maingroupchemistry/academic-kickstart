@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Complete List"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -59,8 +59,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
    text_color_light = false  
    
-[Complete List] ({{<ref "publications-all/index.md">}} "Complete List")
-
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -68,5 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-[Complete List] ({{<ref "publications-all/index.md">}} "Complete List")
