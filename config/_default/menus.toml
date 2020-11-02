@@ -25,7 +25,7 @@
     parent = "People"
     name = "Alumni"
     url = "#people"
-    weight = 20
+    weight = 21
 
 [[main]]
     name = "Projects"
