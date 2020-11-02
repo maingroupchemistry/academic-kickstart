@@ -21,8 +21,8 @@ superuser: true
 bio: 
    -  since  2016  Heidelberg University                         
                    Inorganic Chemistry Department, Emmy-Noether fellow
-interests:
-  - main group chemistry
+# interests:
+#  - main group chemistry
 # - element-ligand cooperativity
 # - Lewis acids and frustrated Lewis pairs
 
