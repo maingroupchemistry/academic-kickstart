@@ -12,6 +12,9 @@
   name = "People"
   url = "#people"
   weight = 20
+  name = "Alumni"
+  url = "#people"
+  weight = 25
 
 [[main]]
   name = "Projects"
