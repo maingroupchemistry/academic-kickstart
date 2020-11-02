@@ -18,7 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
- bio: since  2016  Heidelberg University                          
+ bio: 'since  2016  Heidelberg University                          
                    Inorganic Chemistry Department, Emmy-Noether fellow 
       2013 – 2015  Université de Strasbourg, ISIS          
                    Post-Doc (Jean-Marie Lehn), AvH fellow 
@@ -29,7 +29,7 @@ superuser: true
       2008         Université Pierre et Marie Curie         
                    Research student (Max Malacria) 
       2004 – 2010  University Freiburg                             
-                   Studies and diploma thesis, (Bernhard Breit) .
+                   Studies and diploma thesis, (Bernhard Breit).'
 
 # interests:
 # - main group chemistry
