@@ -18,18 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
- bio: 'since  2016  Heidelberg University                          
-                   Inorganic Chemistry Department, Emmy-Noether fellow 
-      2013 – 2015  Université de Strasbourg, ISIS          
-                   Post-Doc (Jean-Marie Lehn), AvH fellow 
-      2010 – 2013  Karlsruhe Institut for Technology      
-                   Institute of Organic Chemistry, PhD (Jan Paradies), LGF fellow
-      2011         University of Toronto                          
-                   Institute of Inorganic Chemistry, InterDoc (Doug Stephan), DAAD fellow 
-      2008         Université Pierre et Marie Curie         
-                   Research student (Max Malacria) 
-      2004 – 2010  University Freiburg                             
-                   Studies and diploma thesis, (Bernhard Breit).'
+ bio: 
 
 # interests:
 # - main group chemistry
@@ -70,5 +59,16 @@ user_groups:
 # - Visitors
 ---
 
-Greblab example text.
+ since  2016  Heidelberg University                         
+              Inorganic Chemistry Department, Emmy-Noether fellow 
+ 2013 – 2015  Université de Strasbourg, ISIS          
+              Post-Doc (Jean-Marie Lehn), AvH fellow 
+ 2010 – 2013  Karlsruhe Institut for Technology      
+              Institute of Organic Chemistry, PhD (Jan Paradies), LGF fellow
+ 2011         University of Toronto                          
+              Institute of Inorganic Chemistry, InterDoc (Doug Stephan), DAAD fellow 
+ 2008         Université Pierre et Marie Curie         
+              Research student (Max Malacria) 
+ 2004 – 2010  University Freiburg                             
+              Studies and diploma thesis, (Bernhard Breit)..
 
