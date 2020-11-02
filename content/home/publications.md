@@ -9,7 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
-[List of all publications]
+[complete list]
     ({{< ref "publications-all/index.md" >}})
 
 [content]
