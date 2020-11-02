@@ -20,7 +20,7 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 #   bio: 
 
-# interests:
+ interests:
   - main group chemistry
 # - element-ligand cooperativity
 # - Lewis acids and frustrated Lewis pairs
