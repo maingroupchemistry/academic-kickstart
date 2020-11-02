@@ -21,7 +21,7 @@ superuser: true
 #   bio: 
 
 # interests:
-# - main group chemistry
+  - main group chemistry
 # - element-ligand cooperativity
 # - Lewis acids and frustrated Lewis pairs
 
