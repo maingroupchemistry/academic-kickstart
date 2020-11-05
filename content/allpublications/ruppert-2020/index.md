@@ -1,7 +1,7 @@
 ---
 title: 'Bis(alizarinato)silane: In Silico Design and Synthesis of a Powerful Chromogenic Lewis Acid as a Dual-Gated Fluoride Ion Probe.'
-subtitle: ''
-summary: '*Organometallics* **2020**, accepted article'
+subtitle: '*Organometallics* **2020**, accepted article'
+summary: ''
 authors:
 - Heiko Rupppert
 - Lutz Greb
